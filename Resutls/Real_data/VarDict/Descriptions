@@ -1,5 +1,0 @@
-The directory contains the VarDict predicted variants results of real data NA12878. The summary csv is the results of hap.py.
-
-The original resutls is one VCF files contains both SNVs and Indels.
-But Github only allow max 25MB file to upload, so I had to split VarDict original resutls to SNVs and Indels
-
