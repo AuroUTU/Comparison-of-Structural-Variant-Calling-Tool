@@ -1,4 +1,5 @@
 The results of VarDict.
 
-
+The original resutls is one VCF files contains both SNVs and Indels.
+But Github only allow max 25MB file to upload, so I had to split VarDict original resutls to SNVs and Indels
 
