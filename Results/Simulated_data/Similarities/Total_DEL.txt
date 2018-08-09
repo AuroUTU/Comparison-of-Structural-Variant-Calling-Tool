@@ -1,0 +1,10 @@
+Pindel		790		
+
+ScanIndel	706					
+
+FermiKit	494														
+
+VarDict		161									
+
+VarScan		16		
+
