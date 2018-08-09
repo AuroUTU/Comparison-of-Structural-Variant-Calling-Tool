@@ -1,0 +1,5 @@
+This directory contains tool predicted results of real data NA 12878.
+Each folder contains the variant calling results of that tool and benchmarking results from hap.py.
+
+
+
