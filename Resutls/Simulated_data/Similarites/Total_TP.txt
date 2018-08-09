@@ -1,0 +1,10 @@
+Delly		1110
+LUMPY		1127	
+Pindel		1428		
+ScanIndel	1353					
+FermiKit	804						
+Platypus	644								
+VarDict		235									
+VarScan		28		
+Freebayes	28
+GATK 		106
