@@ -1,6 +1,0 @@
-		Pindel	ScanIndel	FermiKit	VarDict			
-
-ScanIndel	0	1		1		1		
-FermiKit	0	6		1		1		
-VarDict		2	5		13		1		
-VarScan		0	4		3		4		
